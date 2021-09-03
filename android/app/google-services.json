@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886796627587",
+    "project_id": "collegeview-581b3",
+    "storage_bucket": "collegeview-581b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886796627587:android:97af9c67693153a0e735b6",
+        "android_client_info": {
+          "package_name": "com.example.collegeview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886796627587-168hg9964iprm28a3lm5t35urlfelaru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegeview",
+            "certificate_hash": "f01b052fab2c73eb095f78a6ce26811cc4f7667f"
+          }
+        },
+        {
+          "client_id": "886796627587-tfi7sjqd9c02609svgtt009s44kaff1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTCd-T54LqnytV2YBViOvJCnyeldpzq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886796627587-tfi7sjqd9c02609svgtt009s44kaff1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

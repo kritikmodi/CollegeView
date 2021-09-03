@@ -29,6 +29,15 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:28.4.0')
 }
 
+dependencies {
+    implementation 'com.android.support:multidex:1.0.3' //enter the latest version
+}
+android {
+    defaultConfig {
+        multiDexEnabled true
+    }
+}
+
 android {
     compileSdkVersion 30
 
