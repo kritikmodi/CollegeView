@@ -10,4 +10,4 @@
 
 Considering all these points, we assume that it's safe to say that this app can prove to be highly beneficial to college students and would make college life much more interesting for everyone!
 
-_The apk file can be found in the root directory itself by the name "app-release.apk"_
+_The apk file can be found in the root directory itself by the name "app-release.apk"!_
