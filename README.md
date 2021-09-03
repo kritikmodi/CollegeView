@@ -1,4 +1,4 @@
-# collegeview
+# COLLEGE VIEW
 
 - The main purpose of this app is to provide real-time data about the events taking place at the college and the upcoming events.
 - It also has an announcements section(where the urgent announcements can be posted) and a departments section(where information about the activities taking place in different departments can be posted). All these updates can be done using the Cloud Firestore, which is a real-time database.
